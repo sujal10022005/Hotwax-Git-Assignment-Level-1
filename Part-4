@@ -1,0 +1,14 @@
+4.Stages of a File
+
+1.Working Directory, Staging Area, and Repository
+
+Q.Explain the three stages of a file in Git.
+Tracked: Tracked files are those that Git is actively monitoring for changes.
+Untracked: Untracked files are those that Git is not currently monitoring.
+Staged: Files in the staging area are ready to be committed to the repository.
+
+Assignment: Make changes to a file, add it to the staging area, and then commit it.
+Solution: nano assignment.txt
+          git add .
+          git commit -m "Chnages successful"
+          git log

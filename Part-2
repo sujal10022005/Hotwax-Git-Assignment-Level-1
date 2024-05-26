@@ -1,0 +1,20 @@
+1.Creating a Git Repository
+
+Q.How to initialize a new Git repository.
+Ans. git init
+
+Q.How to clone an existing repository.
+Ans.git clone <url>
+
+Assignment: Create a new repository named my-first-repo and initialize it.
+Solution:   mkdir gitworkshop25mayassignment
+            cd gitworkshop25mayassignment
+            mkdir myfirst-repo
+            cd myfirst-repo
+            git init
+
+2.Repository Structure
+
+Assignment: Clone an existing repository from GitHub and explore its structure.
+            git clone
+

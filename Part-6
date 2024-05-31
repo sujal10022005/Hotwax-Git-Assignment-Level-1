@@ -1,0 +1,10 @@
+1. Using Git Diff
+
+Q. Explain the purpose of git diff.
+Ans. git diff: Displays the changes between the working directory and the staging area. It shows what has been changed but not yet staged for commit.
+
+Q. How to use git diff to compare changes between commits, the working directory, and the staging area.
+Ans. Using git diff to compare changes between commits, the working directory, and the staging area involves different commands depending on what you want to compare.
+
+Assignment: Make some changes to a file and use git diff to view the differences.
+Solution  :git diff

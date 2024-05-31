@@ -1,0 +1,18 @@
+1. Creating and Managing Branches
+
+Q. Explain the concept of branches in Git.
+Ans. A branch in Git is a pointer to a specific commit in the repository's history. It enables developers to work on different lines of development independently. Each branch represents an independent line of development that starts from a certain point and can diverge from the main codebase.
+
+Q.How to create, list, and switch branches.
+Ans.
+Create : git branch <branch-name>
+Switch  : git checkout <branch-name>
+List    : git branch
+
+Assignment: Create a new branch, switch to it, and make some commits.
+Solution  : git branch assignment
+            git checkout assignment
+            touch assignmentnew.txt
+            git add .
+            git commit -m "Added content in new file"
+            

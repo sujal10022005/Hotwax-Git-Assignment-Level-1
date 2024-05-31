@@ -4,4 +4,7 @@ Q.Explain git revert and its use cases.
 Ans.It is a command used to create a new commit that undoes the changes made by a previous commit.
 
 Assignment: Create a commit and then revert it.
-Solution   :
+Solution   : git add .
+             git commit -m "Updated assignment.txt eith new content"
+             git log 
+             git revert 47e9cf7b8f88004c079169daba71f625a4a1f30

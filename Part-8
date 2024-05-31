@@ -1,0 +1,7 @@
+1.Understanding and Resolving Merge Conflicts
+
+Q. Explain what merge conflicts are and why they occur.
+Ans. A merge conflict occurs when Git is unable to automatically resolve differences between two branches during a merge. This happens because changes have been made to the same lines of code or adjacent lines in the same file in both branches, and Git does not know which changes to keep.
+
+Q.How to resolve merge conflicts.
+Ans. 
